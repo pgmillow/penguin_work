@@ -1,0 +1,7 @@
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第四题\第四题\bin\Debug\第四题.exe.config
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第四题\第四题\bin\Debug\第四题.exe
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第四题\第四题\bin\Debug\第四题.pdb
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第四题\第四题\obj\Debug\第四题.csprojAssemblyReference.cache
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第四题\第四题\obj\Debug\第四题.csproj.CoreCompileInputs.cache
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第四题\第四题\obj\Debug\第四题.exe
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第四题\第四题\obj\Debug\第四题.pdb

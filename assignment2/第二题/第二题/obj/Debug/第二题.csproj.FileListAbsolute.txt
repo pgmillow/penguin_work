@@ -1,0 +1,7 @@
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第二题\第二题\bin\Debug\第二题.exe.config
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第二题\第二题\bin\Debug\第二题.exe
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第二题\第二题\bin\Debug\第二题.pdb
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第二题\第二题\obj\Debug\第二题.csprojAssemblyReference.cache
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第二题\第二题\obj\Debug\第二题.csproj.CoreCompileInputs.cache
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第二题\第二题\obj\Debug\第二题.exe
+C:\Users\86166\Desktop\ruangou\penguin_work\assignment2\第二题\第二题\obj\Debug\第二题.pdb
